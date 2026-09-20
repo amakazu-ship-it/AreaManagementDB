@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { ArrowRight } from "lucide-react";
+import { ArrowRight, Users } from "lucide-react";
 import type { PublicCase } from "../types";
 import { Tag } from "./Tag";
 
@@ -25,6 +25,12 @@ export function CaseCard({ item }: { item: PublicCase }) {
       className="group flex flex-col gap-3 rounded-card border border-line bg-card p-4 transition-shadow hover:shadow-md hover:border-lineStrong"
     >
       <div>
+        {item.origin === "community" && (
+          <span className="mb-1.5 flex w-fit items-center gap-1 rounded-tag bg-amberPale px-2 py-0.5 text-[10px] font-semibold text-amber">
+            <Users size={10} />
+            ユーザー投稿
+          </span>
+        )}
         <h3 className="text-[15px] font-semibold leading-snug text-ink line-clamp-2">
           {item.name}
         </h3>

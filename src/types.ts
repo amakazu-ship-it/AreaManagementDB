@@ -32,6 +32,42 @@ export interface PublicCase {
   sourceUrl: string;
   sourceTitle: string;
   page: string;
+  /** "official" = フェーズ0〜2の一次情報調査で収集。"community" = ユーザー投稿（承認済み） */
+  origin: "official" | "community";
+  /** communityケースのみ：投稿者が書いた自由記述の説明文 */
+  description?: string;
+}
+
+export type SubmissionStatus = "pending" | "approved" | "rejected";
+
+export interface Submission {
+  id: string;
+  createdAt: string;
+  reviewedAt: string | null;
+  status: SubmissionStatus;
+  reviewerNote: string | null;
+  name: string;
+  org: string;
+  company: string;
+  area: string;
+  prefecture: string;
+  fiscalYear: string;
+  interventionType: string;
+  objectiveTags: string;
+  targetTags: string;
+  componentTags: string;
+  description: string;
+  startDate: string;
+  endDate: string;
+  frequency: string;
+  partners: string;
+  participantCount: string;
+  visitorCount: string;
+  otherPublicMetrics: string;
+  sourceUrl: string;
+  sourceTitle: string;
+  submitterName: string;
+  submitterContact: string;
 }
 
 export interface Measurement {

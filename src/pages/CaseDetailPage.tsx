@@ -1,6 +1,8 @@
 import { Link, useParams } from "react-router-dom";
-import { ArrowLeft, ExternalLink } from "lucide-react";
-import { getCaseById, getMeasurements } from "../lib/data";
+import { ArrowLeft, ExternalLink, Users } from "lucide-react";
+import { getMeasurements } from "../lib/data";
+import { useCases } from "../context/CasesContext";
+import { findCaseById } from "../lib/data";
 import { typeLabel } from "../lib/taxonomy";
 import { Tag } from "../components/Tag";
 import { DetailSection } from "../components/DetailSection";
@@ -8,10 +10,12 @@ import { EvidenceGradeBadge } from "../components/EvidenceGradeBadge";
 import { ComingSoonCompare } from "../components/ComingSoonCompare";
 import { buildAboutText } from "../lib/about";
 import { buildChecklist } from "../lib/measurementChecklist";
+import type { Measurement } from "../types";
 
 export function CaseDetailPage() {
   const { caseId } = useParams<{ caseId: string }>();
-  const item = caseId ? getCaseById(caseId) : undefined;
+  const { cases } = useCases();
+  const item = caseId ? findCaseById(cases, caseId) : undefined;
 
   if (!item) {
     return (
@@ -24,8 +28,40 @@ export function CaseDetailPage() {
     );
   }
 
+  const isCommunity = item.origin === "community";
   const measurements = getMeasurements(item.interventionId);
-  const outputs = measurements.filter((m) => ["input", "activity", "output"].includes(m.metricLevel));
+  const communityOutputs: Measurement[] = isCommunity
+    ? ([
+        item.visitorCount && { metricOriginal: "来場者数", value: item.visitorCount, unit: "人" },
+        item.participantCount && { metricOriginal: "参加者数", value: item.participantCount, unit: "人" },
+        item.otherPublicMetrics && { metricOriginal: "その他実績", value: item.otherPublicMetrics, unit: "" },
+      ].filter(Boolean) as Partial<Measurement>[]).map((m) => ({
+        metricOriginal: "",
+        metricStandardized: "",
+        metricLevel: "output",
+        value: "",
+        unit: "",
+        measurementPeriod: "",
+        measurementMethod: "",
+        sampleSize: "",
+        surveyQuestion: "",
+        responseScale: "",
+        baselineValue: "",
+        comparisonValue: "",
+        comparisonType: "",
+        quote: "",
+        sourceUrl: item.sourceUrl,
+        page: "",
+        evidenceGrade: "",
+        gradeReason: "",
+        benchmarkReady: "",
+        benchmarkIssue: "",
+        ...m,
+      }))
+    : [];
+  const outputs = isCommunity
+    ? communityOutputs
+    : measurements.filter((m) => ["input", "activity", "output"].includes(m.metricLevel));
   const outcomes = measurements.filter((m) => m.metricLevel === "outcome" || m.metricLevel === "impact");
   const checklist = buildChecklist(measurements);
 
@@ -48,6 +84,12 @@ export function CaseDetailPage() {
       {/* ① 基本情報 */}
       <div className="mb-6">
         <div className="mb-2 flex flex-wrap items-center gap-2">
+          {isCommunity && (
+            <span className="flex items-center gap-1 rounded-tag bg-amberPale px-2.5 py-1 text-xs font-semibold text-amber">
+              <Users size={12} />
+              ユーザー投稿（運営承認済み）
+            </span>
+          )}
           {item.interventionType.map((t) => (
             <Tag key={t} variant="type">{typeLabel(t)}</Tag>
           ))}
@@ -76,7 +118,16 @@ export function CaseDetailPage() {
       <div className="rounded-card border border-line bg-card px-5">
         {/* ② この施策について */}
         <DetailSection title="この施策について">
-          <p className="text-sm leading-relaxed text-ink">{buildAboutText(item)}</p>
+          {isCommunity && item.description ? (
+            <p className="whitespace-pre-wrap text-sm leading-relaxed text-ink">{item.description}</p>
+          ) : (
+            <p className="text-sm leading-relaxed text-ink">{buildAboutText(item)}</p>
+          )}
+          {isCommunity && (
+            <p className="mt-2 text-[11px] text-faint">
+              ※ この説明文は投稿者による記述です。Wombat運営による事実確認は出典URLの範囲に限られます。
+            </p>
+          )}
         </DetailSection>
 
         {/* ③ 目的 */}

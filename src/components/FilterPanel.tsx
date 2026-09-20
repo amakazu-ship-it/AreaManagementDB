@@ -1,3 +1,4 @@
+import type { PublicCase } from "../types";
 import type { Filters } from "../lib/search";
 import { activeFilterCount } from "../lib/search";
 import { facetCounts, scalarFacetCounts } from "../lib/data";
@@ -6,23 +7,25 @@ import { CheckboxGroup } from "./CheckboxGroup";
 import { typeLabel } from "../lib/taxonomy";
 
 export function FilterPanel({
+  cases,
   filters,
   onChange,
 }: {
+  cases: PublicCase[];
   filters: Filters;
   onChange: (next: Filters) => void;
 }) {
-  const prefectureOptions = scalarFacetCounts((c) => c.prefecture);
-  const areaOptions = scalarFacetCounts((c) => c.area);
-  const objectiveOptions = facetCounts((c) => c.objectiveTags);
-  const typeOptions = facetCounts((c) => c.interventionType).map((o) => ({
+  const prefectureOptions = scalarFacetCounts(cases, (c) => c.prefecture);
+  const areaOptions = scalarFacetCounts(cases, (c) => c.area);
+  const objectiveOptions = facetCounts(cases, (c) => c.objectiveTags);
+  const typeOptions = facetCounts(cases, (c) => c.interventionType).map((o) => ({
     value: o.value,
     count: o.count,
     label: typeLabel(o.value),
   }));
-  const targetOptions = facetCounts((c) => c.targetTags);
-  const componentOptions = facetCounts((c) => c.componentTags);
-  const fiscalYearOptions = scalarFacetCounts((c) => c.fiscalYear);
+  const targetOptions = facetCounts(cases, (c) => c.targetTags);
+  const componentOptions = facetCounts(cases, (c) => c.componentTags);
+  const fiscalYearOptions = scalarFacetCounts(cases, (c) => c.fiscalYear);
 
   const count = activeFilterCount(filters);
 

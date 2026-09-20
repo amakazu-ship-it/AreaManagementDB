@@ -1,6 +1,7 @@
 import { useMemo, useState } from "react";
-import { SlidersHorizontal, X } from "lucide-react";
-import { cases } from "../lib/data";
+import { Link } from "react-router-dom";
+import { SlidersHorizontal, X, PlusCircle } from "lucide-react";
+import { useCases } from "../context/CasesContext";
 import { applyFilters, EMPTY_FILTERS, activeFilterCount, type Filters } from "../lib/search";
 import { SearchBar } from "../components/SearchBar";
 import { QuickChips } from "../components/QuickChips";
@@ -9,10 +10,11 @@ import { ResultsHeader } from "../components/ResultsHeader";
 import { CaseCard } from "../components/CaseCard";
 
 export function CaseListPage() {
+  const { cases, communityCount } = useCases();
   const [filters, setFilters] = useState<Filters>(EMPTY_FILTERS);
   const [drawerOpen, setDrawerOpen] = useState(false);
 
-  const results = useMemo(() => applyFilters(cases, filters), [filters]);
+  const results = useMemo(() => applyFilters(cases, filters), [cases, filters]);
   const filterCount = activeFilterCount(filters);
 
   const toggleQuickTag = (tag: string) => {
@@ -27,12 +29,22 @@ export function CaseListPage() {
   return (
     <div className="mx-auto max-w-6xl px-4 py-8 md:px-6 md:py-10">
       {/* Hero */}
-      <div className="mb-6">
-        <h1 className="text-2xl font-extrabold text-ink md:text-3xl">まちづくり施策を探す</h1>
-        <p className="mt-2 text-[15px] text-sub">他の地域では、どんな施策が行われている？</p>
-        <p className="mt-0.5 text-sm text-faint">
-          公開情報から収集・整理したエリアマネジメント施策を横断検索できます。
-        </p>
+      <div className="mb-6 flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
+        <div>
+          <h1 className="text-2xl font-extrabold text-ink md:text-3xl">まちづくり施策を探す</h1>
+          <p className="mt-2 text-[15px] text-sub">他の地域では、どんな施策が行われている？</p>
+          <p className="mt-0.5 text-sm text-faint">
+            公開情報から収集・整理したエリアマネジメント施策を横断検索できます
+            {communityCount > 0 && `（うちユーザー投稿${communityCount}件）`}。
+          </p>
+        </div>
+        <Link
+          to="/submit"
+          className="flex shrink-0 items-center gap-1.5 rounded-btn border border-accent bg-accentPale px-4 py-2.5 text-sm font-semibold text-accentDark hover:bg-accent hover:text-white"
+        >
+          <PlusCircle size={16} />
+          施策を投稿する
+        </Link>
       </div>
 
       {/* Search */}
@@ -47,7 +59,7 @@ export function CaseListPage() {
         {/* Desktop filter sidebar */}
         <aside className="hidden w-64 shrink-0 md:block">
           <div className="sticky top-20 rounded-card border border-line bg-card">
-            <FilterPanel filters={filters} onChange={setFilters} />
+            <FilterPanel cases={cases} filters={filters} onChange={setFilters} />
           </div>
         </aside>
 
@@ -107,7 +119,7 @@ export function CaseListPage() {
               </button>
             </div>
             <div className="flex-1 overflow-y-auto">
-              <FilterPanel filters={filters} onChange={setFilters} />
+              <FilterPanel cases={cases} filters={filters} onChange={setFilters} />
             </div>
             <div className="border-t border-line p-4">
               <button

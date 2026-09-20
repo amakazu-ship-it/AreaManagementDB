@@ -16,6 +16,9 @@ export function Layout({ children }: { children: React.ReactNode }) {
           </Link>
           <nav className="flex items-center gap-4 text-xs text-faint">
             <span className="hidden sm:inline">Layer 1 · Public DB</span>
+            <Link to="/submit" className="font-medium text-accent hover:underline">
+              投稿する
+            </Link>
           </nav>
         </div>
       </header>
