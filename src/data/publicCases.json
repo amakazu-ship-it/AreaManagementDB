@@ -1,0 +1,5688 @@
+[
+  {
+    "caseId": "WMB-INT001",
+    "interventionId": "INT001",
+    "name": "東京島旅DAY イベントレポート",
+    "org": "一般社団法人日本橋室町エリアマネジメント",
+    "company": "三井不動産",
+    "area": "日本橋",
+    "prefecture": "東京都",
+    "fiscalYear": "2026年度",
+    "interventionType": [
+      "event"
+    ],
+    "objectiveTags": [
+      "観光促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [],
+    "componentTagsSource": "unknown",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-09-05",
+    "endDate": "2026-09-06",
+    "durationDays": "2",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://muromachi-area.jp/information/detail.php?id=mcbxxpjmlfo8w",
+    "sourceTitle": "東京島旅DAY イベントレポート",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT002",
+    "interventionId": "INT002",
+    "name": "あずきバー祭り2026 イベントレポート",
+    "org": "一般社団法人日本橋室町エリアマネジメント",
+    "company": "三井不動産",
+    "area": "日本橋",
+    "prefecture": "東京都",
+    "fiscalYear": "2026年度",
+    "interventionType": [
+      "event"
+    ],
+    "objectiveTags": [
+      "地域交流"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "飲食"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-06-26",
+    "endDate": "2026-06-26",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://muromachi-area.jp/information/detail.php?id=m6mhqv6uhp8",
+    "sourceTitle": "あずきバー祭り2026 イベントレポート",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT003",
+    "interventionId": "INT003",
+    "name": "超ブレイキン in NIHONBASHI イベントレポート",
+    "org": "一般社団法人日本橋室町エリアマネジメント",
+    "company": "三井不動産",
+    "area": "日本橋",
+    "prefecture": "東京都",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "event",
+      "culture_art"
+    ],
+    "objectiveTags": [
+      "文化芸術",
+      "来街促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "若者",
+      "来街者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "音楽",
+      "ナイトイベント"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2024-10-03",
+    "endDate": "2024-10-05",
+    "durationDays": "3",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "100",
+    "otherPublicMetrics": "",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://muromachi-area.jp/information/detail.php?id=mxsya0whr3i1y",
+    "sourceTitle": "超ブレイキン in NIHONBASHI イベントレポート",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT004",
+    "interventionId": "INT004",
+    "name": "障がい者インクルージョンをテーマにした3イベント（サステナSUMMIT分科会・UDツアー等）",
+    "org": "一般社団法人日本橋室町エリアマネジメント",
+    "company": "三井不動産",
+    "area": "日本橋",
+    "prefecture": "東京都",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "community"
+    ],
+    "objectiveTags": [
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "事業者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "ワークショップ",
+      "コミュニティ交流"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-02-21",
+    "endDate": "2025-03-04",
+    "durationDays": "",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "41",
+    "visitorCount": "",
+    "otherPublicMetrics": "参加社数: 24社",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "outcome",
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": true,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://muromachi-area.jp/information/detail.php?id=mb1w4bxwcv",
+    "sourceTitle": "障がい者インクルージョンをテーマにした3イベント（サステナSUMMIT分科会・UDツアー等）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT005",
+    "interventionId": "INT005",
+    "name": "屋台湾フェス2026 in 日比谷公園",
+    "org": "一般社団法人日比谷エリアマネジメント",
+    "company": "三井不動産",
+    "area": "日比谷",
+    "prefecture": "東京都",
+    "fiscalYear": "N/A",
+    "interventionType": [
+      "event",
+      "culture_art"
+    ],
+    "objectiveTags": [
+      "文化芸術",
+      "来街促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "飲食",
+      "屋台"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-09-03",
+    "endDate": "2026-09-06",
+    "durationDays": "4",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://hibiya.or.jp/information/event/2026-09-01/603/",
+    "sourceTitle": "屋台湾フェス2026 in 日比谷公園",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT006",
+    "interventionId": "INT006",
+    "name": "日比谷音楽祭2026",
+    "org": "一般社団法人日比谷エリアマネジメント",
+    "company": "三井不動産",
+    "area": "日比谷",
+    "prefecture": "東京都",
+    "fiscalYear": "N/A",
+    "interventionType": [
+      "culture_art"
+    ],
+    "objectiveTags": [
+      "文化芸術",
+      "来街促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "音楽"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-05-30",
+    "endDate": "2026-05-31",
+    "durationDays": "2",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://hibiya.or.jp/information/event/2026-04-13/554/",
+    "sourceTitle": "日比谷音楽祭2026",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT007",
+    "interventionId": "INT007",
+    "name": "みんなの街づくりスタジオ（AIカメラ編等ワークショップ）",
+    "org": "一般社団法人UDCKタウンマネジメント",
+    "company": "三井不動産",
+    "area": "柏の葉",
+    "prefecture": "千葉県",
+    "fiscalYear": "N/A",
+    "interventionType": [
+      "community",
+      "placemaking"
+    ],
+    "objectiveTags": [
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "ワークショップ",
+      "デジタル"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2020-12-12",
+    "endDate": "",
+    "durationDays": "",
+    "frequency": "不定期・継続的ワークショップ",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "スタジオメンバー数: 20名 / プレイベント参加者数: 18名 / ロゴ投票総数: 273票 / 採用案得票数: 113票",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "input",
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.udcktm.or.jp/studio/index.html",
+    "sourceTitle": "みんなの街づくりスタジオ（AIカメラ編等ワークショップ）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT008",
+    "interventionId": "INT008",
+    "name": "ハイボールガーデンin豊洲2023",
+    "org": "豊洲2・3丁目地区まちづくり協議会",
+    "company": "三井不動産",
+    "area": "豊洲",
+    "prefecture": "東京都",
+    "fiscalYear": "2023年度",
+    "interventionType": [
+      "event",
+      "market"
+    ],
+    "objectiveTags": [
+      "消費促進",
+      "来街促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "マルシェ",
+      "飲食"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2023-07-26",
+    "endDate": "2023-07-28",
+    "durationDays": "3",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.toyosu.org/info/225.html",
+    "sourceTitle": "ハイボールガーデンin豊洲2023",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT009",
+    "interventionId": "INT009",
+    "name": "ハイボールガーデンin豊洲2024",
+    "org": "豊洲2・3丁目地区まちづくり協議会",
+    "company": "三井不動産",
+    "area": "豊洲",
+    "prefecture": "東京都",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "event",
+      "market"
+    ],
+    "objectiveTags": [
+      "消費促進",
+      "来街促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "マルシェ",
+      "飲食"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2024-07-24",
+    "endDate": "2024-07-26",
+    "durationDays": "3",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.toyosu.org/info/371.html",
+    "sourceTitle": "ハイボールガーデンin豊洲2024",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT010",
+    "interventionId": "INT010",
+    "name": "ハイボールガーデンin豊洲2025",
+    "org": "豊洲2・3丁目地区まちづくり協議会",
+    "company": "三井不動産",
+    "area": "豊洲",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "event",
+      "market"
+    ],
+    "objectiveTags": [
+      "消費促進",
+      "来街促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "マルシェ",
+      "飲食"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-08-06",
+    "endDate": "2025-08-08",
+    "durationDays": "3",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.toyosu.org/info/460.html",
+    "sourceTitle": "ハイボールガーデンin豊洲2025",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT011",
+    "interventionId": "INT011",
+    "name": "ハイボールガーデンin豊洲2026",
+    "org": "豊洲2・3丁目地区まちづくり協議会",
+    "company": "三井不動産",
+    "area": "豊洲",
+    "prefecture": "東京都",
+    "fiscalYear": "2026年度",
+    "interventionType": [
+      "event",
+      "market"
+    ],
+    "objectiveTags": [
+      "消費促進",
+      "来街促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "マルシェ",
+      "飲食"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-09",
+    "durationDays": "3",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.toyosu.org/info/516.html",
+    "sourceTitle": "ハイボールガーデンin豊洲2026",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT012",
+    "interventionId": "INT012",
+    "name": "Marunouchi Street Park 2023（夏・冬）",
+    "org": "特定非営利活動法人大丸有エリアマネジメント協会（Ligare）",
+    "company": "三菱地所",
+    "area": "大手町・丸の内・有楽町",
+    "prefecture": "東京都",
+    "fiscalYear": "2023年度",
+    "interventionType": [
+      "public_space",
+      "placemaking"
+    ],
+    "objectiveTags": [
+      "公共空間活用",
+      "滞在促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "就業者",
+      "来街者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "広場活用",
+      "ベンチ・滞在空間"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "",
+    "endDate": "",
+    "durationDays": "85",
+    "frequency": "季節開催（夏57日+冬28日）",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "ストリートパーク夏季開催日数: 57日 / ストリートパーク冬季開催日数: 28日",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "activity"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ligare.jp/report/generalmeeting2024/",
+    "sourceTitle": "Marunouchi Street Park 2023（夏・冬）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT013",
+    "interventionId": "INT013",
+    "name": "丸の内ラジオ体操（2023年度）",
+    "org": "特定非営利活動法人大丸有エリアマネジメント協会（Ligare）",
+    "company": "三菱地所",
+    "area": "大手町・丸の内・有楽町",
+    "prefecture": "東京都",
+    "fiscalYear": "2023年度",
+    "interventionType": [
+      "community"
+    ],
+    "objectiveTags": [
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "就業者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "コミュニティ交流"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "",
+    "endDate": "",
+    "durationDays": "",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "ラジオ体操平均参加人数: 150名/回",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ligare.jp/report/generalmeeting2024/",
+    "sourceTitle": "丸の内ラジオ体操（2023年度）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT014",
+    "interventionId": "INT014",
+    "name": "エコキッズ探検隊（2023年度）",
+    "org": "特定非営利活動法人大丸有エリアマネジメント協会（Ligare）",
+    "company": "三菱地所",
+    "area": "大手町・丸の内・有楽町",
+    "prefecture": "東京都",
+    "fiscalYear": "2023年度",
+    "interventionType": [
+      "community",
+      "environment"
+    ],
+    "objectiveTags": [
+      "環境",
+      "子育て支援"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "子ども",
+      "ファミリー"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "ワークショップ",
+      "子ども向け"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "",
+    "endDate": "",
+    "durationDays": "",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "エコキッズ探検隊参加者数: 370名 / エコキッズ探検隊プログラム数: 14プログラム",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "activity",
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ligare.jp/report/generalmeeting2024/",
+    "sourceTitle": "エコキッズ探検隊（2023年度）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT015",
+    "interventionId": "INT015",
+    "name": "大丸有キラピカ作戦（2023年度）",
+    "org": "特定非営利活動法人大丸有エリアマネジメント協会（Ligare）",
+    "company": "三菱地所",
+    "area": "大手町・丸の内・有楽町",
+    "prefecture": "東京都",
+    "fiscalYear": "2023年度",
+    "interventionType": [
+      "environment",
+      "community"
+    ],
+    "objectiveTags": [
+      "環境",
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "就業者",
+      "店舗",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "コミュニティ交流"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "",
+    "endDate": "",
+    "durationDays": "",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "キラピカ作戦参加者数: 1231名 / キラピカ作戦参加団体数: 126団体",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ligare.jp/report/generalmeeting2024/",
+    "sourceTitle": "大丸有キラピカ作戦（2023年度）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT016",
+    "interventionId": "INT016",
+    "name": "丸の内軟式野球大会（2023年度）",
+    "org": "特定非営利活動法人大丸有エリアマネジメント協会（Ligare）",
+    "company": "三菱地所",
+    "area": "大手町・丸の内・有楽町",
+    "prefecture": "東京都",
+    "fiscalYear": "2023年度",
+    "interventionType": [
+      "community",
+      "event"
+    ],
+    "objectiveTags": [
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "就業者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "スポーツ",
+      "コミュニティ交流"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "",
+    "endDate": "",
+    "durationDays": "",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "野球大会参加チーム数: 45チーム",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ligare.jp/report/generalmeeting2024/",
+    "sourceTitle": "丸の内軟式野球大会（2023年度）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT017",
+    "interventionId": "INT017",
+    "name": "DMO東京丸の内（2023年度）",
+    "org": "特定非営利活動法人大丸有エリアマネジメント協会（Ligare）",
+    "company": "三菱地所",
+    "area": "大手町・丸の内・有楽町",
+    "prefecture": "東京都",
+    "fiscalYear": "2023年度",
+    "interventionType": [
+      "tourism",
+      "information_promotion"
+    ],
+    "objectiveTags": [
+      "観光促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "事業者",
+      "観光客"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "デジタル"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "",
+    "endDate": "",
+    "durationDays": "",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "DMO東京丸の内問合せ件数: 181件",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ligare.jp/report/generalmeeting2024/",
+    "sourceTitle": "DMO東京丸の内（2023年度）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT018",
+    "interventionId": "INT018",
+    "name": "丸の内夏祭り（2024年度）",
+    "org": "特定非営利活動法人大丸有エリアマネジメント協会（Ligare）",
+    "company": "三菱地所",
+    "area": "大手町・丸の内・有楽町",
+    "prefecture": "東京都",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "event",
+      "culture_art"
+    ],
+    "objectiveTags": [
+      "文化芸術",
+      "来街促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "就業者",
+      "来街者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "飲食",
+      "ナイトイベント"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "",
+    "endDate": "",
+    "durationDays": "2",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "20000",
+    "otherPublicMetrics": "",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ligare.jp/report/generalmeeting2025/",
+    "sourceTitle": "丸の内夏祭り（2024年度）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT019",
+    "interventionId": "INT019",
+    "name": "エリアマネジメント広告事業（2024年度）",
+    "org": "特定非営利活動法人大丸有エリアマネジメント協会（Ligare）",
+    "company": "三菱地所",
+    "area": "大手町・丸の内・有楽町",
+    "prefecture": "東京都",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "other"
+    ],
+    "objectiveTags": [
+      "その他"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "事業者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [],
+    "componentTagsSource": "unknown",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "",
+    "endDate": "",
+    "durationDays": "",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "エリアマネジメント広告売上: 46000000円",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ligare.jp/report/generalmeeting2025/",
+    "sourceTitle": "エリアマネジメント広告事業（2024年度）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT020",
+    "interventionId": "INT020",
+    "name": "丸の内ラジオ体操（2024年度）",
+    "org": "特定非営利活動法人大丸有エリアマネジメント協会（Ligare）",
+    "company": "三菱地所",
+    "area": "大手町・丸の内・有楽町",
+    "prefecture": "東京都",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "community"
+    ],
+    "objectiveTags": [
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "就業者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "コミュニティ交流"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "",
+    "endDate": "",
+    "durationDays": "",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "ラジオ体操参加人数: 300人以上/日",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ligare.jp/report/generalmeeting2025/",
+    "sourceTitle": "丸の内ラジオ体操（2024年度）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT021",
+    "interventionId": "INT021",
+    "name": "エコキッズ探検隊（2024年度）",
+    "org": "特定非営利活動法人大丸有エリアマネジメント協会（Ligare）",
+    "company": "三菱地所",
+    "area": "大手町・丸の内・有楽町",
+    "prefecture": "東京都",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "community",
+      "environment"
+    ],
+    "objectiveTags": [
+      "環境",
+      "子育て支援"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "子ども",
+      "ファミリー"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "ワークショップ",
+      "子ども向け"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "",
+    "endDate": "",
+    "durationDays": "",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "エコキッズ探検隊参加者数: 273名",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ligare.jp/report/generalmeeting2025/",
+    "sourceTitle": "エコキッズ探検隊（2024年度）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT022",
+    "interventionId": "INT022",
+    "name": "大丸有キラピカ作戦（2024年度）",
+    "org": "特定非営利活動法人大丸有エリアマネジメント協会（Ligare）",
+    "company": "三菱地所",
+    "area": "大手町・丸の内・有楽町",
+    "prefecture": "東京都",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "environment",
+      "community"
+    ],
+    "objectiveTags": [
+      "環境",
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "就業者",
+      "店舗",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "コミュニティ交流"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "",
+    "endDate": "",
+    "durationDays": "",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "キラピカ作戦参加者数: 451名",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ligare.jp/report/generalmeeting2025/",
+    "sourceTitle": "大丸有キラピカ作戦（2024年度）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT023",
+    "interventionId": "INT023",
+    "name": "第79回丸の内軟式野球大会",
+    "org": "特定非営利活動法人大丸有エリアマネジメント協会（Ligare）",
+    "company": "三菱地所",
+    "area": "大手町・丸の内・有楽町",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "community",
+      "event"
+    ],
+    "objectiveTags": [
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "就業者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "スポーツ",
+      "コミュニティ交流"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-08-24",
+    "endDate": "2025-08-24",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "野球大会参加チーム数: 46チーム",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ligare.jp/report/marunouchibaseball79-report/",
+    "sourceTitle": "第79回丸の内軟式野球大会",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT024",
+    "interventionId": "INT024",
+    "name": "Marunouchi Street Park 2025 Summer",
+    "org": "特定非営利活動法人大丸有エリアマネジメント協会（Ligare）",
+    "company": "三菱地所",
+    "area": "大手町・丸の内・有楽町",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "public_space",
+      "placemaking"
+    ],
+    "objectiveTags": [
+      "公共空間活用",
+      "滞在促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "就業者",
+      "来街者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "広場活用",
+      "ベンチ・滞在空間"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-09-05",
+    "endDate": "2025-09-21",
+    "durationDays": "17",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ligare.jp/report/msp25_summer/",
+    "sourceTitle": "Marunouchi Street Park 2025 Summer",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT025",
+    "interventionId": "INT025",
+    "name": "有楽町アートアーバニズムYAUの挑戦（YAU CENTER開設等）",
+    "org": "特定非営利活動法人大丸有エリアマネジメント協会（Ligare）",
+    "company": "三菱地所",
+    "area": "大手町・丸の内・有楽町",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "culture_art",
+      "placemaking"
+    ],
+    "objectiveTags": [
+      "文化芸術",
+      "公共空間活用"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者",
+      "事業者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "アート",
+      "展示"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-12-09",
+    "endDate": "2025-12-10",
+    "durationDays": "2",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ligare.jp/report/yau2025/",
+    "sourceTitle": "有楽町アートアーバニズムYAUの挑戦（YAU CENTER開設等）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT026",
+    "interventionId": "INT026",
+    "name": "エコキッズ探検隊（2025年度）",
+    "org": "特定非営利活動法人大丸有エリアマネジメント協会（Ligare）",
+    "company": "三菱地所",
+    "area": "大手町・丸の内・有楽町",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "community",
+      "environment"
+    ],
+    "objectiveTags": [
+      "環境",
+      "子育て支援"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "子ども",
+      "ファミリー"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "ワークショップ",
+      "子ども向け"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-07-26",
+    "endDate": "2025-08-20",
+    "durationDays": "26",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ligare.jp/report/ecokids2025/",
+    "sourceTitle": "エコキッズ探検隊（2025年度）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT027",
+    "interventionId": "INT027",
+    "name": "大丸有キラピカ作戦（2025年度）",
+    "org": "特定非営利活動法人大丸有エリアマネジメント協会（Ligare）",
+    "company": "三菱地所",
+    "area": "大手町・丸の内・有楽町",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "environment",
+      "community"
+    ],
+    "objectiveTags": [
+      "環境",
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "就業者",
+      "店舗",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "コミュニティ交流"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-11-07",
+    "endDate": "2025-11-07",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "キラピカ作戦参加団体数: 31団体 / キラピカ作戦参加者数: 412名",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ligare.jp/report/kirapika2025/",
+    "sourceTitle": "大丸有キラピカ作戦（2025年度）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT028",
+    "interventionId": "INT028",
+    "name": "DMO東京丸の内（2025年度）",
+    "org": "特定非営利活動法人大丸有エリアマネジメント協会（Ligare）",
+    "company": "三菱地所",
+    "area": "大手町・丸の内・有楽町",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "tourism",
+      "information_promotion"
+    ],
+    "objectiveTags": [
+      "観光促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "事業者",
+      "観光客"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "デジタル"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "",
+    "endDate": "",
+    "durationDays": "",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "DMO東京丸の内問合せ件数: 154件",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "outcome",
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": true,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ligare.jp/report/generalmeeting2026/",
+    "sourceTitle": "DMO東京丸の内（2025年度）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT029",
+    "interventionId": "INT029",
+    "name": "丸の内仲通り酷暑対策社会実験「夏でも居たいまち」",
+    "org": "特定非営利活動法人大丸有エリアマネジメント協会（Ligare）",
+    "company": "三菱地所",
+    "area": "大手町・丸の内・有楽町",
+    "prefecture": "東京都",
+    "fiscalYear": "2026年度",
+    "interventionType": [
+      "public_space",
+      "walkability"
+    ],
+    "objectiveTags": [
+      "公共空間活用",
+      "ウォーカブル"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "就業者",
+      "来街者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "歩行者空間化",
+      "ベンチ・滞在空間"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-07-24",
+    "endDate": "2026-08-23",
+    "durationDays": "31",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ligare.jp/report/",
+    "sourceTitle": "丸の内仲通り酷暑対策社会実験「夏でも居たいまち」",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT030",
+    "interventionId": "INT030",
+    "name": "令和7年度定期総会＆シンポジウム",
+    "org": "池袋エリアプラットフォーム",
+    "company": "三菱地所;東武鉄道",
+    "area": "池袋",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "other"
+    ],
+    "objectiveTags": [],
+    "objectiveTagsSource": "unknown",
+    "targetTags": [
+      "事業者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [],
+    "componentTagsSource": "unknown",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-03-04",
+    "endDate": "",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ikebukuro-areaplatform.jp/pdf/ikebukuro-areaplatform_INFORMATION_No.9.pdf",
+    "sourceTitle": "令和7年度定期総会＆シンポジウム",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT031",
+    "interventionId": "INT031",
+    "name": "街路から街を変える社会実験「IKEBUKURO25」",
+    "org": "池袋エリアプラットフォーム",
+    "company": "三菱地所;東武鉄道",
+    "area": "池袋",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "public_space",
+      "walkability"
+    ],
+    "objectiveTags": [
+      "回遊促進",
+      "ウォーカブル"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "歩行者空間化",
+      "道路活用"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-11-01",
+    "endDate": "2025-11-03",
+    "durationDays": "3",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "outcome"
+    ],
+    "bestEvidenceGrade": "U",
+    "hasOutput": false,
+    "hasOutcome": true,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ikebukuro-areaplatform.jp/pdf/202512.pdf",
+    "sourceTitle": "街路から街を変える社会実験「IKEBUKURO25」",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT032",
+    "interventionId": "INT032",
+    "name": "MEET UP!! vol.3",
+    "org": "池袋エリアプラットフォーム",
+    "company": "三菱地所;東武鉄道",
+    "area": "池袋",
+    "prefecture": "東京都",
+    "fiscalYear": "2026年度",
+    "interventionType": [
+      "community"
+    ],
+    "objectiveTags": [
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "事業者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "コミュニティ交流"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-22",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "MEET UP参加者数: 34名",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ikebukuro-areaplatform.jp/pdf/202607.pdf",
+    "sourceTitle": "MEET UP!! vol.3",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT033",
+    "interventionId": "INT033",
+    "name": "猛暑での回遊性向上「涼感プレイスプロジェクト」",
+    "org": "池袋エリアプラットフォーム",
+    "company": "三菱地所;東武鉄道",
+    "area": "池袋",
+    "prefecture": "東京都",
+    "fiscalYear": "2026年度",
+    "interventionType": [
+      "public_space",
+      "walkability",
+      "mobility"
+    ],
+    "objectiveTags": [
+      "回遊促進",
+      "ウォーカブル"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "ベンチ・滞在空間",
+      "道路活用"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-07-31",
+    "endDate": "2026-08-03",
+    "durationDays": "4",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "outcome"
+    ],
+    "bestEvidenceGrade": "U",
+    "hasOutput": false,
+    "hasOutcome": true,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ikebukuro-areaplatform.jp/pdf/202608.pdf",
+    "sourceTitle": "猛暑での回遊性向上「涼感プレイスプロジェクト」",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT034",
+    "interventionId": "INT034",
+    "name": "IKEBUKURO LIVING LOOP（マーケット開催実績）",
+    "org": "池袋エリアプラットフォーム",
+    "company": "三菱地所;東武鉄道",
+    "area": "池袋",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "market",
+      "placemaking"
+    ],
+    "objectiveTags": [
+      "消費促進",
+      "公共空間活用"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "マルシェ"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "",
+    "endDate": "",
+    "durationDays": "",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ikebukuro-areaplatform.jp/report/6919801c-000c-4103-a677-879af4a6d271",
+    "sourceTitle": "IKEBUKURO LIVING LOOP（マーケット開催実績）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT035",
+    "interventionId": "INT035",
+    "name": "IKEBUKURO PUBLIC FURNITURE TRIAL（社会実験）",
+    "org": "池袋エリアプラットフォーム",
+    "company": "三菱地所;東武鉄道",
+    "area": "池袋",
+    "prefecture": "東京都",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "public_space",
+      "placemaking"
+    ],
+    "objectiveTags": [
+      "公共空間活用",
+      "滞在促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "ベンチ・滞在空間"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2024-10-10",
+    "endDate": "2025-03-31",
+    "durationDays": "173",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ikebukuro-areaplatform.jp/report/d2182235-dcdd-4674-b4ae-12c5adf6f7be",
+    "sourceTitle": "IKEBUKURO PUBLIC FURNITURE TRIAL（社会実験）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT036",
+    "interventionId": "INT036",
+    "name": "YOXO FESTIVAL 2025",
+    "org": "一般社団法人横浜みなとみらい21",
+    "company": "三菱地所",
+    "area": "横浜みなとみらい",
+    "prefecture": "神奈川県",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "event",
+      "digital",
+      "tourism"
+    ],
+    "objectiveTags": [
+      "観光促進",
+      "来街促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者",
+      "観光客",
+      "若者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "デジタル",
+      "音楽"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-01-24",
+    "endDate": "2025-01-26",
+    "durationDays": "3",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "72000",
+    "otherPublicMetrics": "",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ymm21.jp/wpsystem/wp-content/uploads/2025/06/Report_2024.pdf",
+    "sourceTitle": "YOXO FESTIVAL 2025",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT037",
+    "interventionId": "INT037",
+    "name": "新年会員交流会2025",
+    "org": "一般社団法人横浜みなとみらい21",
+    "company": "三菱地所",
+    "area": "横浜みなとみらい",
+    "prefecture": "神奈川県",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "community"
+    ],
+    "objectiveTags": [
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "事業者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "コミュニティ交流"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-01-15",
+    "endDate": "2025-01-15",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "167",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ymm21.jp/wpsystem/wp-content/uploads/2025/06/Report_2024.pdf",
+    "sourceTitle": "新年会員交流会2025",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT038",
+    "interventionId": "INT038",
+    "name": "みなとみらいSTREET MUSIC（2024年度）",
+    "org": "一般社団法人横浜みなとみらい21",
+    "company": "三菱地所",
+    "area": "横浜みなとみらい",
+    "prefecture": "神奈川県",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "culture_art"
+    ],
+    "objectiveTags": [
+      "文化芸術",
+      "来街促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "音楽"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2024-04-01",
+    "endDate": "2025-03-31",
+    "durationDays": "",
+    "frequency": "通年",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "出演組数: 123組 / 公演回数: 699回",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "activity"
+    ],
+    "bestEvidenceGrade": "B",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": true,
+    "sourceUrl": "https://ymm21.jp/wpsystem/wp-content/uploads/2025/06/Report_2024.pdf",
+    "sourceTitle": "みなとみらいSTREET MUSIC（2024年度）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT039",
+    "interventionId": "INT039",
+    "name": "合同防災訓練2025",
+    "org": "一般社団法人横浜みなとみらい21",
+    "company": "三菱地所",
+    "area": "横浜みなとみらい",
+    "prefecture": "神奈川県",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "disaster_prevention"
+    ],
+    "objectiveTags": [
+      "防災"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民",
+      "事業者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "防災"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-03-10",
+    "endDate": "2025-03-10",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "160",
+    "visitorCount": "",
+    "otherPublicMetrics": "参加企業数: 68社",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ymm21.jp/wpsystem/wp-content/uploads/2025/06/Report_2024.pdf",
+    "sourceTitle": "合同防災訓練2025",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT040",
+    "interventionId": "INT040",
+    "name": "電動キックボードシェアリング実証（2024年度）",
+    "org": "一般社団法人横浜みなとみらい21",
+    "company": "三菱地所",
+    "area": "横浜みなとみらい",
+    "prefecture": "神奈川県",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "mobility",
+      "digital"
+    ],
+    "objectiveTags": [
+      "回遊促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "モビリティ",
+      "デジタル"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2024-04-01",
+    "endDate": "2025-02-28",
+    "durationDays": "",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "乗車回数: 77000回",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ymm21.jp/wpsystem/wp-content/uploads/2025/06/Report_2024.pdf",
+    "sourceTitle": "電動キックボードシェアリング実証（2024年度）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT041",
+    "interventionId": "INT041",
+    "name": "みなとみらい21地区着工40周年記念事業（ミートアップ21等）",
+    "org": "一般社団法人横浜みなとみらい21",
+    "company": "三菱地所",
+    "area": "横浜みなとみらい",
+    "prefecture": "神奈川県",
+    "fiscalYear": "2023年度",
+    "interventionType": [
+      "community",
+      "event"
+    ],
+    "objectiveTags": [
+      "コミュニティ形成",
+      "来街促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民",
+      "事業者",
+      "来街者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "コミュニティ交流"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2023-07-01",
+    "endDate": "2024-03-31",
+    "durationDays": "",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "233",
+    "visitorCount": "",
+    "otherPublicMetrics": "ミートアップ21開催回数: 10回 / eスポーツ大会開催回数: 2回 / eスポーツ大会参加団体数: 110団体",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "activity",
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ymm21.jp/upload/Report_2023.pdf",
+    "sourceTitle": "みなとみらい21地区着工40周年記念事業（ミートアップ21等）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT042",
+    "interventionId": "INT042",
+    "name": "YOXO FESTIVAL（第2回）",
+    "org": "一般社団法人横浜みなとみらい21",
+    "company": "三菱地所",
+    "area": "横浜みなとみらい",
+    "prefecture": "神奈川県",
+    "fiscalYear": "2023年度",
+    "interventionType": [
+      "event",
+      "digital",
+      "tourism"
+    ],
+    "objectiveTags": [
+      "観光促進",
+      "来街促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者",
+      "観光客",
+      "若者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "デジタル",
+      "音楽"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2024-02-01",
+    "endDate": "2024-02-28",
+    "durationDays": "",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "55000",
+    "otherPublicMetrics": "",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://ymm21.jp/upload/Report_2023.pdf",
+    "sourceTitle": "YOXO FESTIVAL（第2回）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT043",
+    "interventionId": "INT043",
+    "name": "FUN MORE TIME SHINJUKU 2023",
+    "org": "一般社団法人新宿副都心エリア環境改善委員会",
+    "company": "住友不動産",
+    "area": "西新宿",
+    "prefecture": "東京都",
+    "fiscalYear": "2023年度",
+    "interventionType": [
+      "public_space",
+      "placemaking",
+      "walkability"
+    ],
+    "objectiveTags": [
+      "公共空間活用",
+      "ウォーカブル",
+      "滞在促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "就業者",
+      "来街者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "道路活用",
+      "ベンチ・滞在空間",
+      "飲食"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2023-10-13",
+    "endDate": "2023-10-15",
+    "durationDays": "3",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "50000",
+    "otherPublicMetrics": "アンケート回答総数: 439件",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "outcome",
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": true,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://welcometoshinjuku.jp/pilot_program/past_2023.html",
+    "sourceTitle": "FUN MORE TIME SHINJUKU 2023",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT044",
+    "interventionId": "INT044",
+    "name": "FUN MORE TIME SHINJUKU 2024",
+    "org": "一般社団法人新宿副都心エリア環境改善委員会",
+    "company": "住友不動産",
+    "area": "西新宿",
+    "prefecture": "東京都",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "public_space",
+      "placemaking",
+      "walkability"
+    ],
+    "objectiveTags": [
+      "公共空間活用",
+      "ウォーカブル",
+      "滞在促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "就業者",
+      "来街者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "道路活用",
+      "ベンチ・滞在空間",
+      "飲食"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2024-10-18",
+    "endDate": "2024-10-20",
+    "durationDays": "3",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "60000",
+    "otherPublicMetrics": "アンケート回答総数: 546件",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://welcometoshinjuku.jp/about/_assets/data/241129事後リリース_FUN-MORE-TIME-SHINJUKU-2024.pdf",
+    "sourceTitle": "FUN MORE TIME SHINJUKU 2024",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT045",
+    "interventionId": "INT045",
+    "name": "FUN MORE TIME SHINJUKU 2025",
+    "org": "一般社団法人新宿副都心エリア環境改善委員会",
+    "company": "住友不動産",
+    "area": "西新宿",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "public_space",
+      "placemaking",
+      "walkability"
+    ],
+    "objectiveTags": [
+      "公共空間活用",
+      "ウォーカブル",
+      "滞在促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "就業者",
+      "来街者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "道路活用",
+      "ベンチ・滞在空間",
+      "飲食"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-10-17",
+    "endDate": "2025-10-19",
+    "durationDays": "3",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "6000",
+    "otherPublicMetrics": "アンケート回答総数: 292件",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://welcometoshinjuku.jp/pilot_program/",
+    "sourceTitle": "FUN MORE TIME SHINJUKU 2025",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT046",
+    "interventionId": "INT046",
+    "name": "第6回渋谷盆踊り2025",
+    "org": "一般社団法人渋谷駅前エリアマネジメント",
+    "company": "東急不動産",
+    "area": "渋谷",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "culture_art",
+      "community"
+    ],
+    "objectiveTags": [
+      "文化芸術",
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民",
+      "来街者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "音楽",
+      "ナイトイベント"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-08-02",
+    "endDate": "2025-08-02",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://shibuyaplusfun.com/news/detail?cd=000178",
+    "sourceTitle": "第6回渋谷盆踊り2025",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT047",
+    "interventionId": "INT047",
+    "name": "産官学合同浸水対策訓練2026",
+    "org": "一般社団法人渋谷駅前エリアマネジメント",
+    "company": "東急不動産",
+    "area": "渋谷",
+    "prefecture": "東京都",
+    "fiscalYear": "2026年度",
+    "interventionType": [
+      "disaster_prevention"
+    ],
+    "objectiveTags": [
+      "防災"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民",
+      "事業者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "防災"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-07-28",
+    "endDate": "2026-07-28",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://shibuyaplusfun.com/news/detail?cd=000264",
+    "sourceTitle": "産官学合同浸水対策訓練2026",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT048",
+    "interventionId": "INT048",
+    "name": "設立総会（竹芝地区まちづくり協議会）",
+    "org": "一般社団法人竹芝エリアマネジメント",
+    "company": "東急不動産",
+    "area": "竹芝",
+    "prefecture": "東京都",
+    "fiscalYear": "N/A",
+    "interventionType": [
+      "other"
+    ],
+    "objectiveTags": [],
+    "objectiveTagsSource": "unknown",
+    "targetTags": [
+      "事業者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [],
+    "componentTagsSource": "unknown",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2014-09-25",
+    "endDate": "2014-09-25",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "設立時会員団体数: 35団体",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "input"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://takeshiba-am.com/wp-content/uploads/エリマネニュース1号.pdf",
+    "sourceTitle": "設立総会（竹芝地区まちづくり協議会）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT049",
+    "interventionId": "INT049",
+    "name": "第11回竹芝夏ふぇす2026",
+    "org": "一般社団法人竹芝エリアマネジメント",
+    "company": "東急不動産",
+    "area": "竹芝",
+    "prefecture": "東京都",
+    "fiscalYear": "2026年度",
+    "interventionType": [
+      "event",
+      "culture_art"
+    ],
+    "objectiveTags": [
+      "文化芸術",
+      "来街促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "飲食",
+      "ナイトイベント"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-08-29",
+    "endDate": "2026-08-29",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://takeshiba-am.com/topics/1746/",
+    "sourceTitle": "第11回竹芝夏ふぇす2026",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT050",
+    "interventionId": "INT050",
+    "name": "第10回竹芝夏ふぇす2025",
+    "org": "一般社団法人竹芝エリアマネジメント",
+    "company": "東急不動産",
+    "area": "竹芝",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "event",
+      "culture_art"
+    ],
+    "objectiveTags": [
+      "文化芸術",
+      "来街促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "飲食",
+      "ナイトイベント"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-08-28",
+    "endDate": "2025-08-30",
+    "durationDays": "3",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://takeshiba-am.com/topics/1592/",
+    "sourceTitle": "第10回竹芝夏ふぇす2025",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT051",
+    "interventionId": "INT051",
+    "name": "SAKURA MUSIC FES.",
+    "org": "一般社団法人竹芝エリアマネジメント",
+    "company": "東急不動産",
+    "area": "竹芝",
+    "prefecture": "東京都",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "culture_art"
+    ],
+    "objectiveTags": [
+      "文化芸術"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "音楽"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-03-15",
+    "endDate": "2025-03-15",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://takeshiba-am.com/topics/1553/",
+    "sourceTitle": "SAKURA MUSIC FES.",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT052",
+    "interventionId": "INT052",
+    "name": "第10回二子玉川エリアマネジメントシンポジウム",
+    "org": "一般社団法人二子玉川エリアマネジメンツ",
+    "company": "東急株式会社",
+    "area": "二子玉川",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "other",
+      "community"
+    ],
+    "objectiveTags": [],
+    "objectiveTagsSource": "unknown",
+    "targetTags": [
+      "事業者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [],
+    "componentTagsSource": "unknown",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-01",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "180",
+    "visitorCount": "",
+    "otherPublicMetrics": "開催時間: 3.75時間",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "activity",
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://futako.org/6452/",
+    "sourceTitle": "第10回二子玉川エリアマネジメントシンポジウム",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT053",
+    "interventionId": "INT053",
+    "name": "二子玉川ネイチャーズデイ2025",
+    "org": "一般社団法人二子玉川エリアマネジメンツ",
+    "company": "東急株式会社",
+    "area": "二子玉川",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "event",
+      "environment"
+    ],
+    "objectiveTags": [
+      "環境",
+      "子育て支援"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "ファミリー",
+      "子ども"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "子ども向け",
+      "ワークショップ"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-05-18",
+    "endDate": "2025-05-18",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "4000",
+    "otherPublicMetrics": "",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://futako.org/6620/",
+    "sourceTitle": "二子玉川ネイチャーズデイ2025",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT054",
+    "interventionId": "INT054",
+    "name": "Mizube Fun Baseアウトドアオフィス事業",
+    "org": "一般社団法人二子玉川エリアマネジメンツ",
+    "company": "東急株式会社",
+    "area": "二子玉川",
+    "prefecture": "東京都",
+    "fiscalYear": "2022年度",
+    "interventionType": [
+      "placemaking",
+      "public_space"
+    ],
+    "objectiveTags": [
+      "公共空間活用",
+      "滞在促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "就業者",
+      "来街者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "ベンチ・滞在空間",
+      "モビリティ"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2022-10-28",
+    "endDate": "2022-10-28",
+    "durationDays": "2",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "OPEN DAY利用者数: 26名",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "outcome",
+      "output"
+    ],
+    "bestEvidenceGrade": "C",
+    "hasOutput": true,
+    "hasOutcome": true,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://futako.org/3757/",
+    "sourceTitle": "Mizube Fun Baseアウトドアオフィス事業",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT055",
+    "interventionId": "INT055",
+    "name": "CO-NIWAマルシェ10月2024",
+    "org": "一般社団法人ドレッセWISEたまプラーザエリアマネジメンツ",
+    "company": "東急株式会社",
+    "area": "たまプラーザ",
+    "prefecture": "神奈川県",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "market"
+    ],
+    "objectiveTags": [
+      "消費促進",
+      "地域交流"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "マルシェ",
+      "地域店舗連携"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2024-10-19",
+    "endDate": "2024-10-19",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://tamaplazaam.com/archives/2735",
+    "sourceTitle": "CO-NIWAマルシェ10月2024",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT056",
+    "interventionId": "INT056",
+    "name": "CO-NIWAマルシェ6月2023",
+    "org": "一般社団法人ドレッセWISEたまプラーザエリアマネジメンツ",
+    "company": "東急株式会社",
+    "area": "たまプラーザ",
+    "prefecture": "神奈川県",
+    "fiscalYear": "2023年度",
+    "interventionType": [
+      "market"
+    ],
+    "objectiveTags": [
+      "消費促進",
+      "地域交流"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "マルシェ",
+      "地域店舗連携"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2023-06-17",
+    "endDate": "2023-06-17",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://tamaplazaam.com/archives/1830",
+    "sourceTitle": "CO-NIWAマルシェ6月2023",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT057",
+    "interventionId": "INT057",
+    "name": "芝浦一丁目こども祭り2024",
+    "org": "一般社団法人芝浦エリアマネジメント",
+    "company": "野村不動産",
+    "area": "芝浦",
+    "prefecture": "東京都",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "community",
+      "event"
+    ],
+    "objectiveTags": [
+      "コミュニティ形成",
+      "子育て支援"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "子ども",
+      "ファミリー",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "子ども向け",
+      "ワークショップ"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2024-11-10",
+    "endDate": "2024-11-10",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "折り紙ワークショップ参加者数: 150名",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.shibaura-area.jp/cms/html/topics/detail97.html",
+    "sourceTitle": "芝浦一丁目こども祭り2024",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT058",
+    "interventionId": "INT058",
+    "name": "清掃・パトロール活動（2025年11月）",
+    "org": "一般社団法人芝浦エリアマネジメント",
+    "company": "野村不動産",
+    "area": "芝浦",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "environment",
+      "community"
+    ],
+    "objectiveTags": [
+      "環境",
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "コミュニティ交流"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-11-26",
+    "endDate": "2025-11-26",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "16",
+    "visitorCount": "",
+    "otherPublicMetrics": "協力団体数: 7団体",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.shibaura-area.jp/cms/html/topics/detail152.html",
+    "sourceTitle": "清掃・パトロール活動（2025年11月）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT059",
+    "interventionId": "INT059",
+    "name": "芝浦一丁目こども祭り2026",
+    "org": "一般社団法人芝浦エリアマネジメント",
+    "company": "野村不動産",
+    "area": "芝浦",
+    "prefecture": "東京都",
+    "fiscalYear": "2026年度",
+    "interventionType": [
+      "community",
+      "event"
+    ],
+    "objectiveTags": [
+      "コミュニティ形成",
+      "子育て支援"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "子ども",
+      "ファミリー",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "子ども向け",
+      "ワークショップ"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-05-31",
+    "endDate": "2026-05-31",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "ブース参加者数（子ども）: 216名",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.shibaura-area.jp/cms/html/topics/detail194.html",
+    "sourceTitle": "芝浦一丁目こども祭り2026",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT060",
+    "interventionId": "INT060",
+    "name": "NIHONBASHI RIVER WALK MUSEUM 始動（第一弾展示）",
+    "org": "一般社団法人日本橋リバーウォークエリアマネジメント",
+    "company": "東京建物",
+    "area": "八重洲・日本橋・京橋",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "culture_art",
+      "placemaking"
+    ],
+    "objectiveTags": [
+      "文化芸術"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "展示",
+      "アート"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-07-10",
+    "endDate": "2025-07-10",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.nihonbashiriverwalk.jp/news/release_20250710/",
+    "sourceTitle": "NIHONBASHI RIVER WALK MUSEUM 始動（第一弾展示）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT061",
+    "interventionId": "INT061",
+    "name": "日本橋親子現場見学会",
+    "org": "一般社団法人日本橋リバーウォークエリアマネジメント",
+    "company": "東京建物",
+    "area": "八重洲・日本橋・京橋",
+    "prefecture": "東京都",
+    "fiscalYear": "2026年度",
+    "interventionType": [
+      "community",
+      "information_promotion"
+    ],
+    "objectiveTags": [
+      "子育て支援",
+      "エリア認知"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "子ども",
+      "ファミリー"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "ガイドツアー",
+      "子ども向け"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-08-04",
+    "endDate": "2026-08-04",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "140",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.nihonbashiriverwalk.jp/news/20260917/",
+    "sourceTitle": "日本橋親子現場見学会",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT062",
+    "interventionId": "INT062",
+    "name": "MICEにおける都市間連携事業 DMO六本木×静岡県東部地域",
+    "org": "一般社団法人DMO Roppongi Tokyo Japan（DMO六本木）",
+    "company": "森ビル",
+    "area": "六本木",
+    "prefecture": "東京都",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "tourism"
+    ],
+    "objectiveTags": [
+      "観光促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "事業者",
+      "観光客"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [],
+    "componentTagsSource": "unknown",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2024-12-01",
+    "endDate": "2024-12-31",
+    "durationDays": "",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.dmo-roppongi.jp/ja/report/shizuoka/",
+    "sourceTitle": "MICEにおける都市間連携事業 DMO六本木×静岡県東部地域",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT063",
+    "interventionId": "INT063",
+    "name": "MICEにおける都市間連携事業 DMO六本木×石川県",
+    "org": "一般社団法人DMO Roppongi Tokyo Japan（DMO六本木）",
+    "company": "森ビル",
+    "area": "六本木",
+    "prefecture": "東京都",
+    "fiscalYear": "2022年度",
+    "interventionType": [
+      "tourism"
+    ],
+    "objectiveTags": [
+      "観光促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "事業者",
+      "観光客"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [],
+    "componentTagsSource": "unknown",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2022-06-01",
+    "endDate": "2022-06-30",
+    "durationDays": "",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.dmo-roppongi.jp/ja/report/ishikawa/",
+    "sourceTitle": "MICEにおける都市間連携事業 DMO六本木×石川県",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT064",
+    "interventionId": "INT064",
+    "name": "新虎ストリートマルシェ",
+    "org": "一般社団法人新虎通りエリアマネジメント",
+    "company": "森ビル",
+    "area": "虎ノ門",
+    "prefecture": "東京都",
+    "fiscalYear": "N/A",
+    "interventionType": [
+      "market"
+    ],
+    "objectiveTags": [
+      "消費促進",
+      "地域交流"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民",
+      "来街者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "マルシェ",
+      "地域店舗連携"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "",
+    "endDate": "",
+    "durationDays": "",
+    "frequency": "年1回程度（開催年不明、5/19〜5/30の平日開催）",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://shintora-am.jp/marche/",
+    "sourceTitle": "新虎ストリートマルシェ",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT065",
+    "interventionId": "INT065",
+    "name": "新虎通り清掃活動（NPO法人green bird協力）",
+    "org": "一般社団法人新虎通りエリアマネジメント",
+    "company": "森ビル",
+    "area": "虎ノ門",
+    "prefecture": "東京都",
+    "fiscalYear": "N/A",
+    "interventionType": [
+      "environment",
+      "community"
+    ],
+    "objectiveTags": [
+      "環境",
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "コミュニティ交流"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "",
+    "endDate": "",
+    "durationDays": "",
+    "frequency": "毎月第2・第4木曜日",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://shintora-am.jp/action/clean/",
+    "sourceTitle": "新虎通り清掃活動（NPO法人green bird協力）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT066",
+    "interventionId": "INT066",
+    "name": "SSTフェス2026",
+    "org": "品川シーズンテラスエリアマネジメント",
+    "company": "NTT都市開発",
+    "area": "品川",
+    "prefecture": "東京都",
+    "fiscalYear": "2026年度",
+    "interventionType": [
+      "event"
+    ],
+    "objectiveTags": [
+      "来街促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "複数拠点"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-05-29",
+    "endDate": "2026-05-31",
+    "durationDays": "3",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "出展団体数: 20団体",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://sst-am.com/report/10581.html",
+    "sourceTitle": "SSTフェス2026",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT067",
+    "interventionId": "INT067",
+    "name": "品川やきいもテラス2026",
+    "org": "品川シーズンテラスエリアマネジメント",
+    "company": "NTT都市開発",
+    "area": "品川",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "market",
+      "event"
+    ],
+    "objectiveTags": [
+      "消費促進",
+      "来街促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "マルシェ",
+      "飲食"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-03-06",
+    "endDate": "2026-03-08",
+    "durationDays": "3",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "200000",
+    "otherPublicMetrics": "出店数: 17店舗",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "activity",
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://sst-am.com/report/10426.html",
+    "sourceTitle": "品川やきいもテラス2026",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT068",
+    "interventionId": "INT068",
+    "name": "品川イルミネーション2025",
+    "org": "品川シーズンテラスエリアマネジメント",
+    "company": "NTT都市開発",
+    "area": "品川",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "culture_art"
+    ],
+    "objectiveTags": [
+      "文化芸術",
+      "ナイトタイム活性化"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "ライトアップ"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-05",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://sst-am.com/report/10258.html",
+    "sourceTitle": "品川イルミネーション2025",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT069",
+    "interventionId": "INT069",
+    "name": "シナハロフェスタ（品川ハロウィン2025）",
+    "org": "品川シーズンテラスエリアマネジメント",
+    "company": "NTT都市開発",
+    "area": "品川",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "event",
+      "culture_art"
+    ],
+    "objectiveTags": [
+      "文化芸術",
+      "来街促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "ファミリー",
+      "子ども",
+      "来街者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "子ども向け"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-10-27",
+    "endDate": "2025-10-27",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://sst-am.com/report/10177.html",
+    "sourceTitle": "シナハロフェスタ（品川ハロウィン2025）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT070",
+    "interventionId": "INT070",
+    "name": "品川キッズ・ファミリーテラス2025",
+    "org": "品川シーズンテラスエリアマネジメント",
+    "company": "NTT都市開発",
+    "area": "品川",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "community",
+      "event"
+    ],
+    "objectiveTags": [
+      "子育て支援",
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "子ども",
+      "ファミリー"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "子ども向け"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-10-07",
+    "endDate": "2025-10-07",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://sst-am.com/report/10118.html",
+    "sourceTitle": "品川キッズ・ファミリーテラス2025",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT071",
+    "interventionId": "INT071",
+    "name": "品川クリーン大作戦2025",
+    "org": "品川シーズンテラスエリアマネジメント",
+    "company": "NTT都市開発",
+    "area": "品川",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "environment",
+      "community"
+    ],
+    "objectiveTags": [
+      "環境",
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民",
+      "事業者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "コミュニティ交流"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-10-21",
+    "endDate": "2025-10-21",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "121",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://sst-am.com/csr/10194.html",
+    "sourceTitle": "品川クリーン大作戦2025",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT072",
+    "interventionId": "INT072",
+    "name": "第90回品ピカプロジェクト",
+    "org": "品川シーズンテラスエリアマネジメント",
+    "company": "NTT都市開発",
+    "area": "品川",
+    "prefecture": "東京都",
+    "fiscalYear": "2023年度",
+    "interventionType": [
+      "environment",
+      "community"
+    ],
+    "objectiveTags": [
+      "環境",
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民",
+      "事業者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "コミュニティ交流"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2023-09-26",
+    "endDate": "2023-09-26",
+    "durationDays": "1",
+    "frequency": "定例（回次あり、継続実施）",
+    "partners": "",
+    "participantCount": "74",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://sst-am.com/csr/8464.html",
+    "sourceTitle": "第90回品ピカプロジェクト",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT073",
+    "interventionId": "INT073",
+    "name": "第16回品ピカプロジェクト",
+    "org": "品川シーズンテラスエリアマネジメント",
+    "company": "NTT都市開発",
+    "area": "品川",
+    "prefecture": "東京都",
+    "fiscalYear": "N/A",
+    "interventionType": [
+      "environment",
+      "community"
+    ],
+    "objectiveTags": [
+      "環境",
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民",
+      "事業者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "コミュニティ交流"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2016-10-25",
+    "endDate": "2016-10-25",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "40",
+    "visitorCount": "",
+    "otherPublicMetrics": "参加企業数: 2社",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://sst-am.com/csr/502.html",
+    "sourceTitle": "第16回品ピカプロジェクト",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT074",
+    "interventionId": "INT074",
+    "name": "FREE AWAJI BOOK（季刊情報誌発行）",
+    "org": "一般社団法人淡路エリアマネジメント",
+    "company": "安田不動産",
+    "area": "神田",
+    "prefecture": "東京都",
+    "fiscalYear": "N/A",
+    "interventionType": [
+      "information_promotion"
+    ],
+    "objectiveTags": [
+      "エリア認知"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "SNS"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "",
+    "endDate": "",
+    "durationDays": "",
+    "frequency": "季刊",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.waterras.com/fab.html",
+    "sourceTitle": "FREE AWAJI BOOK（季刊情報誌発行）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT075",
+    "interventionId": "INT075",
+    "name": "WATERRAS盆踊り",
+    "org": "一般社団法人淡路エリアマネジメント",
+    "company": "安田不動産",
+    "area": "神田",
+    "prefecture": "東京都",
+    "fiscalYear": "N/A",
+    "interventionType": [
+      "culture_art",
+      "community"
+    ],
+    "objectiveTags": [
+      "文化芸術",
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "音楽",
+      "ナイトイベント"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-09-18",
+    "endDate": "2026-09-19",
+    "durationDays": "2",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.waterras.com/event/",
+    "sourceTitle": "WATERRAS盆踊り",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT076",
+    "interventionId": "INT076",
+    "name": "AREA Vision 意見交換ワークショップ",
+    "org": "下北沢エリアマネジメント協議会",
+    "company": "小田急電鉄;京王電鉄",
+    "area": "下北沢",
+    "prefecture": "東京都",
+    "fiscalYear": "2022年度",
+    "interventionType": [
+      "community",
+      "placemaking"
+    ],
+    "objectiveTags": [
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "ワークショップ"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2022-11-14",
+    "endDate": "2022-11-14",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "28",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "outcome",
+      "output"
+    ],
+    "bestEvidenceGrade": "C",
+    "hasOutput": true,
+    "hasOutcome": true,
+    "hasBeforeAfter": false,
+    "sourceUrl": "http://shimokita-area.org/wp-content/uploads/2025/07/活動レポートvol.0.pdf",
+    "sourceTitle": "AREA Vision 意見交換ワークショップ",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT077",
+    "interventionId": "INT077",
+    "name": "下北沢 ゴミ箱社会実験・調査（ごみ点数・たばこ吸い殻本数調査）",
+    "org": "下北沢エリアマネジメント協議会",
+    "company": "小田急電鉄;京王電鉄",
+    "area": "下北沢",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "public_space",
+      "environment"
+    ],
+    "objectiveTags": [
+      "環境",
+      "公共空間活用"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "ベンチ・滞在空間"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-10-15",
+    "endDate": "2025-10-19",
+    "durationDays": "",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "outcome"
+    ],
+    "bestEvidenceGrade": "C",
+    "hasOutput": false,
+    "hasOutcome": true,
+    "hasBeforeAfter": false,
+    "sourceUrl": "http://shimokita-area.org/wp-content/uploads/2026/05/20251025.pdf",
+    "sourceTitle": "下北沢 ゴミ箱社会実験・調査（ごみ点数・たばこ吸い殻本数調査）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT078",
+    "interventionId": "INT078",
+    "name": "エリアマネジメント報告会（下北線路祭出展）",
+    "org": "下北沢エリアマネジメント協議会",
+    "company": "小田急電鉄;京王電鉄",
+    "area": "下北沢",
+    "prefecture": "東京都",
+    "fiscalYear": "2026年度",
+    "interventionType": [
+      "community",
+      "information_promotion"
+    ],
+    "objectiveTags": [
+      "エリア認知",
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "コミュニティ交流"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-05-30",
+    "endDate": "2026-05-31",
+    "durationDays": "2",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "ごみ袋配布数: 500枚 / パンフレット配布数: 407冊 / 缶バッジ配布数: 86個",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "outcome",
+      "output"
+    ],
+    "bestEvidenceGrade": "C",
+    "hasOutput": true,
+    "hasOutcome": true,
+    "hasBeforeAfter": false,
+    "sourceUrl": "http://shimokita-area.org/wp-content/uploads/2026/08/260724_報告会レポートv4.pdf",
+    "sourceTitle": "エリアマネジメント報告会（下北線路祭出展）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT079",
+    "interventionId": "INT079",
+    "name": "第2回聖蹟桜ヶ丘エリアマネジメント カワマチシンポジウム",
+    "org": "一般社団法人聖蹟桜ヶ丘エリアマネジメント",
+    "company": "京王電鉄",
+    "area": "聖蹟桜ヶ丘",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "other",
+      "community"
+    ],
+    "objectiveTags": [],
+    "objectiveTagsSource": "unknown",
+    "targetTags": [
+      "事業者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [],
+    "componentTagsSource": "unknown",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-02-14",
+    "endDate": "2026-02-14",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "100",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://seiseki.org/gallery/（第2回カワマチシンポジウム）",
+    "sourceTitle": "第2回聖蹟桜ヶ丘エリアマネジメント カワマチシンポジウム",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT080",
+    "interventionId": "INT080",
+    "name": "第45回せいせき桜まつり",
+    "org": "一般社団法人聖蹟桜ヶ丘エリアマネジメント",
+    "company": "京王電鉄",
+    "area": "聖蹟桜ヶ丘",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "event",
+      "culture_art"
+    ],
+    "objectiveTags": [
+      "文化芸術",
+      "来街促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "音楽"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-04-05",
+    "endDate": "2026-04-05",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://seiseki.org/gallery/（第45回せいせき桜まつり）",
+    "sourceTitle": "第45回せいせき桜まつり",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT081",
+    "interventionId": "INT081",
+    "name": "せいせきさくらがおか MERRY GO ROUND Vol.4",
+    "org": "一般社団法人聖蹟桜ヶ丘エリアマネジメント",
+    "company": "京王電鉄",
+    "area": "聖蹟桜ヶ丘",
+    "prefecture": "東京都",
+    "fiscalYear": "2026年度",
+    "interventionType": [
+      "event"
+    ],
+    "objectiveTags": [
+      "文化芸術",
+      "来街促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "ファミリー",
+      "来街者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "子ども向け"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-04-11",
+    "endDate": "2026-04-12",
+    "durationDays": "2",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://seiseki.org/gallery/（MERRY GO ROUND Vol.4）",
+    "sourceTitle": "せいせきさくらがおか MERRY GO ROUND Vol.4",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT082",
+    "interventionId": "INT082",
+    "name": "第5回せいせきカワマチオープンデイ（マルシェ）",
+    "org": "一般社団法人聖蹟桜ヶ丘エリアマネジメント",
+    "company": "京王電鉄",
+    "area": "聖蹟桜ヶ丘",
+    "prefecture": "東京都",
+    "fiscalYear": "2026年度",
+    "interventionType": [
+      "market"
+    ],
+    "objectiveTags": [
+      "消費促進",
+      "地域交流"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "マルシェ",
+      "地域店舗連携"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-06-06",
+    "endDate": "2026-06-07",
+    "durationDays": "2",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://seiseki.org/gallery/（第5回カワマチオープンデイ）",
+    "sourceTitle": "第5回せいせきカワマチオープンデイ（マルシェ）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT083",
+    "interventionId": "INT083",
+    "name": "コミュニケーションキャラバン第1回（所沢駅南改札内）",
+    "org": "所沢タウンマネジメント",
+    "company": "西武鉄道",
+    "area": "所沢",
+    "prefecture": "埼玉県",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "community",
+      "information_promotion"
+    ],
+    "objectiveTags": [
+      "エリア認知"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [],
+    "componentTagsSource": "unknown",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2024-08-30",
+    "endDate": "2024-08-30",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.seiburailway.jp/railways/tokorozawa-tm/voice.html",
+    "sourceTitle": "コミュニケーションキャラバン第1回（所沢駅南改札内）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT084",
+    "interventionId": "INT084",
+    "name": "コミュニケーションキャラバン第2回（エミテラス所沢）",
+    "org": "所沢タウンマネジメント",
+    "company": "西武鉄道",
+    "area": "所沢",
+    "prefecture": "埼玉県",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "community",
+      "information_promotion"
+    ],
+    "objectiveTags": [
+      "エリア認知"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [],
+    "componentTagsSource": "unknown",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2024-09-20",
+    "endDate": "2024-09-20",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.seiburailway.jp/railways/tokorozawa-tm/voice.html",
+    "sourceTitle": "コミュニケーションキャラバン第2回（エミテラス所沢）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT085",
+    "interventionId": "INT085",
+    "name": "コミュニケーションキャラバン第3回（くすのきホール）",
+    "org": "所沢タウンマネジメント",
+    "company": "西武鉄道",
+    "area": "所沢",
+    "prefecture": "埼玉県",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "community",
+      "information_promotion"
+    ],
+    "objectiveTags": [
+      "エリア認知"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [],
+    "componentTagsSource": "unknown",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2024-09-22",
+    "endDate": "2024-09-22",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.seiburailway.jp/railways/tokorozawa-tm/voice.html",
+    "sourceTitle": "コミュニケーションキャラバン第3回（くすのきホール）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT086",
+    "interventionId": "INT086",
+    "name": "コミュニケーションキャラバン第4回（日東会館前広場他）",
+    "org": "所沢タウンマネジメント",
+    "company": "西武鉄道",
+    "area": "所沢",
+    "prefecture": "埼玉県",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "community",
+      "information_promotion"
+    ],
+    "objectiveTags": [
+      "エリア認知"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [],
+    "componentTagsSource": "unknown",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-03-23",
+    "endDate": "2025-03-23",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.seiburailway.jp/railways/tokorozawa-tm/voice.html",
+    "sourceTitle": "コミュニケーションキャラバン第4回（日東会館前広場他）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT087",
+    "interventionId": "INT087",
+    "name": "まちなかコンサート（2024-10）",
+    "org": "所沢タウンマネジメント",
+    "company": "西武鉄道",
+    "area": "所沢",
+    "prefecture": "埼玉県",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "culture_art"
+    ],
+    "objectiveTags": [
+      "文化芸術"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "音楽"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2024-10-19",
+    "endDate": "2024-10-19",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.seiburailway.jp/railways/tokorozawa-tm/meeting.html",
+    "sourceTitle": "まちなかコンサート（2024-10）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT088",
+    "interventionId": "INT088",
+    "name": "まちを彩るプランター・寄せ植えづくりワークショップ",
+    "org": "所沢タウンマネジメント",
+    "company": "西武鉄道",
+    "area": "所沢",
+    "prefecture": "埼玉県",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "environment",
+      "community"
+    ],
+    "objectiveTags": [
+      "環境",
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "緑化",
+      "ワークショップ"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2024-11-17",
+    "endDate": "2024-11-23",
+    "durationDays": "2",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.seiburailway.jp/railways/tokorozawa-tm/town.html",
+    "sourceTitle": "まちを彩るプランター・寄せ植えづくりワークショップ",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT089",
+    "interventionId": "INT089",
+    "name": "自然観察会（星空観望会）",
+    "org": "所沢タウンマネジメント",
+    "company": "西武鉄道",
+    "area": "所沢",
+    "prefecture": "埼玉県",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "environment",
+      "community"
+    ],
+    "objectiveTags": [
+      "環境",
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民",
+      "ファミリー"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "ワークショップ"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2024-12-15",
+    "endDate": "2024-12-15",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.seiburailway.jp/railways/tokorozawa-tm/meeting.html",
+    "sourceTitle": "自然観察会（星空観望会）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT090",
+    "interventionId": "INT090",
+    "name": "とことこオーガニックマルシェ／まちなかコンサートmini版",
+    "org": "所沢タウンマネジメント",
+    "company": "西武鉄道",
+    "area": "所沢",
+    "prefecture": "埼玉県",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "market",
+      "culture_art"
+    ],
+    "objectiveTags": [
+      "消費促進",
+      "文化芸術"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "マルシェ",
+      "音楽"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-01-25",
+    "endDate": "2025-01-25",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.seiburailway.jp/railways/tokorozawa-tm/meeting.html",
+    "sourceTitle": "とことこオーガニックマルシェ／まちなかコンサートmini版",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT091",
+    "interventionId": "INT091",
+    "name": "こたつde読書",
+    "org": "所沢タウンマネジメント",
+    "company": "西武鉄道",
+    "area": "所沢",
+    "prefecture": "埼玉県",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "community",
+      "culture_art"
+    ],
+    "objectiveTags": [
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "ワークショップ"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-02-15",
+    "endDate": "2025-02-15",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.seiburailway.jp/railways/tokorozawa-tm/town.html",
+    "sourceTitle": "こたつde読書",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT092",
+    "interventionId": "INT092",
+    "name": "逃げ地図づくりワークショップ",
+    "org": "所沢タウンマネジメント",
+    "company": "西武鉄道",
+    "area": "所沢",
+    "prefecture": "埼玉県",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "disaster_prevention",
+      "community"
+    ],
+    "objectiveTags": [
+      "防災"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "防災",
+      "ワークショップ"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-03-22",
+    "endDate": "2025-03-22",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.seiburailway.jp/railways/tokorozawa-tm/meeting.html",
+    "sourceTitle": "逃げ地図づくりワークショップ",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT093",
+    "interventionId": "INT093",
+    "name": "所沢TMワゴン(totogon)",
+    "org": "所沢タウンマネジメント",
+    "company": "西武鉄道",
+    "area": "所沢",
+    "prefecture": "埼玉県",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "community",
+      "information_promotion"
+    ],
+    "objectiveTags": [
+      "エリア認知"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [],
+    "componentTagsSource": "unknown",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-03-23",
+    "endDate": "2025-03-23",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.seiburailway.jp/railways/tokorozawa-tm/meeting.html",
+    "sourceTitle": "所沢TMワゴン(totogon)",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT094",
+    "interventionId": "INT094",
+    "name": "まちなかコンサート（2025-06）",
+    "org": "所沢タウンマネジメント",
+    "company": "西武鉄道",
+    "area": "所沢",
+    "prefecture": "埼玉県",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "culture_art"
+    ],
+    "objectiveTags": [
+      "文化芸術"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "音楽"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-06-14",
+    "endDate": "2025-06-14",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.seiburailway.jp/railways/tokorozawa-tm/meeting.html",
+    "sourceTitle": "まちなかコンサート（2025-06）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT095",
+    "interventionId": "INT095",
+    "name": "まちなかコンサートmini版（2025-09）",
+    "org": "所沢タウンマネジメント",
+    "company": "西武鉄道",
+    "area": "所沢",
+    "prefecture": "埼玉県",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "culture_art"
+    ],
+    "objectiveTags": [
+      "文化芸術"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "音楽"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-09-07",
+    "endDate": "2025-09-07",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.seiburailway.jp/railways/tokorozawa-tm/meeting.html",
+    "sourceTitle": "まちなかコンサートmini版（2025-09）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT096",
+    "interventionId": "INT096",
+    "name": "西とこ文化祭",
+    "org": "所沢タウンマネジメント",
+    "company": "西武鉄道",
+    "area": "所沢",
+    "prefecture": "埼玉県",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "culture_art",
+      "community"
+    ],
+    "objectiveTags": [
+      "文化芸術",
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "音楽"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-11-01",
+    "endDate": "2025-11-02",
+    "durationDays": "2",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.seiburailway.jp/railways/tokorozawa-tm/town.html",
+    "sourceTitle": "西とこ文化祭",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT097",
+    "interventionId": "INT097",
+    "name": "自然観察会 第2回",
+    "org": "所沢タウンマネジメント",
+    "company": "西武鉄道",
+    "area": "所沢",
+    "prefecture": "埼玉県",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "environment",
+      "community"
+    ],
+    "objectiveTags": [
+      "環境",
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民",
+      "ファミリー"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "ワークショップ"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-11-08",
+    "endDate": "2025-11-09",
+    "durationDays": "2",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.seiburailway.jp/railways/tokorozawa-tm/meeting.html",
+    "sourceTitle": "自然観察会 第2回",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT098",
+    "interventionId": "INT098",
+    "name": "まちなかコンサート「100万人のクラシックライブ」",
+    "org": "所沢タウンマネジメント",
+    "company": "西武鉄道",
+    "area": "所沢",
+    "prefecture": "埼玉県",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "culture_art"
+    ],
+    "objectiveTags": [
+      "文化芸術"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "音楽"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-12-13",
+    "endDate": "2025-12-13",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.seiburailway.jp/railways/tokorozawa-tm/meeting.html",
+    "sourceTitle": "まちなかコンサート「100万人のクラシックライブ」",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT099",
+    "interventionId": "INT099",
+    "name": "まちなかコンサート（2026-01）",
+    "org": "所沢タウンマネジメント",
+    "company": "西武鉄道",
+    "area": "所沢",
+    "prefecture": "埼玉県",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "culture_art"
+    ],
+    "objectiveTags": [
+      "文化芸術"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "音楽"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-01-18",
+    "endDate": "2026-01-18",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://www.seiburailway.jp/railways/tokorozawa-tm/meeting.html",
+    "sourceTitle": "まちなかコンサート（2026-01）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT100",
+    "interventionId": "INT100",
+    "name": "黄金町バザール＋上大岡バザール2026「交差する私たち」",
+    "org": "特定非営利活動法人黄金町エリアマネジメントセンター",
+    "company": "京急電鉄",
+    "area": "黄金町",
+    "prefecture": "神奈川県",
+    "fiscalYear": "2026年度",
+    "interventionType": [
+      "culture_art",
+      "event"
+    ],
+    "objectiveTags": [
+      "文化芸術",
+      "エリア認知"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "アート",
+      "複数拠点"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-09-10",
+    "endDate": "2026-10-12",
+    "durationDays": "33",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "参加アーティスト数（黄金町会場）: 16名 / 参加アーティスト数（上大岡会場）: 7名 / 参加アーティスト数（計）: 23名",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://koganecho.net/koganecho-bazaar-2026/",
+    "sourceTitle": "黄金町バザール＋上大岡バザール2026「交差する私たち」",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT101",
+    "interventionId": "INT101",
+    "name": "高輪地区まつり with TAKANAWA GATEWAY CITY（2025）",
+    "org": "一般社団法人高輪ゲートウェイエリアマネジメント",
+    "company": "JR東日本",
+    "area": "高輪",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "event",
+      "community"
+    ],
+    "objectiveTags": [
+      "コミュニティ形成",
+      "来街促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民",
+      "来街者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "飲食"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-10-26",
+    "endDate": "2025-10-26",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://takanawagateway-am.jp/report/detail/?id=323",
+    "sourceTitle": "高輪地区まつり with TAKANAWA GATEWAY CITY（2025）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT102",
+    "interventionId": "INT102",
+    "name": "高輪地区まつり2024 with TAKANAWA GATEWAY CITY",
+    "org": "一般社団法人高輪ゲートウェイエリアマネジメント",
+    "company": "JR東日本",
+    "area": "高輪",
+    "prefecture": "東京都",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "event",
+      "community"
+    ],
+    "objectiveTags": [
+      "コミュニティ形成",
+      "来街促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民",
+      "来街者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "飲食"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2024-10-27",
+    "endDate": "2024-10-27",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://takanawagateway-am.jp/report/detail/?id=259",
+    "sourceTitle": "高輪地区まつり2024 with TAKANAWA GATEWAY CITY",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT103",
+    "interventionId": "INT103",
+    "name": "TAKANAWA HOP FEST 2024",
+    "org": "一般社団法人高輪ゲートウェイエリアマネジメント",
+    "company": "JR東日本",
+    "area": "高輪",
+    "prefecture": "東京都",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "event",
+      "culture_art"
+    ],
+    "objectiveTags": [
+      "文化芸術",
+      "来街促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "音楽"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2024-10-25",
+    "endDate": "2024-10-25",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://takanawagateway-am.jp/report/detail/?id=247",
+    "sourceTitle": "TAKANAWA HOP FEST 2024",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT104",
+    "interventionId": "INT104",
+    "name": "スマートシティ・リビングラボ最終発表会",
+    "org": "一般社団法人高輪ゲートウェイエリアマネジメント",
+    "company": "JR東日本",
+    "area": "高輪",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "digital",
+      "community"
+    ],
+    "objectiveTags": [
+      "エリア認知"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "デジタル",
+      "ワークショップ"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-12-21",
+    "endDate": "2025-12-21",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "15",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://takanawagateway-am.jp/report/detail/?id=377",
+    "sourceTitle": "スマートシティ・リビングラボ最終発表会",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT105",
+    "interventionId": "INT105",
+    "name": "エキマチData Lab. オープンラボイベント",
+    "org": "一般社団法人高輪ゲートウェイエリアマネジメント",
+    "company": "JR東日本",
+    "area": "高輪",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "digital"
+    ],
+    "objectiveTags": [
+      "エリア認知"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "デジタル"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-12-13",
+    "endDate": "2025-12-13",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "30",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://takanawagateway-am.jp/report/detail/?id=301",
+    "sourceTitle": "エキマチData Lab. オープンラボイベント",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT106",
+    "interventionId": "INT106",
+    "name": "スマートシティ・リビングラボ「ビジュアルマップづくり」フィールドワーク",
+    "org": "一般社団法人高輪ゲートウェイエリアマネジメント",
+    "company": "JR東日本",
+    "area": "高輪",
+    "prefecture": "東京都",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "digital",
+      "community"
+    ],
+    "objectiveTags": [
+      "エリア認知"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "デジタル",
+      "ワークショップ"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-10-25",
+    "endDate": "2025-10-25",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "20",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://takanawagateway-am.jp/report/detail/?id=336",
+    "sourceTitle": "スマートシティ・リビングラボ「ビジュアルマップづくり」フィールドワーク",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT107",
+    "interventionId": "INT107",
+    "name": "「街の声プロジェクト」始動",
+    "org": "一般社団法人高輪ゲートウェイエリアマネジメント",
+    "company": "JR東日本",
+    "area": "高輪",
+    "prefecture": "東京都",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "information_promotion",
+      "community"
+    ],
+    "objectiveTags": [
+      "エリア認知"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "SNS"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2024-06-26",
+    "endDate": "2024-06-26",
+    "durationDays": "",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://takanawagateway-am.jp/news/detail/?id=237",
+    "sourceTitle": "「街の声プロジェクト」始動",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT108",
+    "interventionId": "INT108",
+    "name": "2025年度DMO大阪梅田会員総会",
+    "org": "DMO大阪梅田",
+    "company": "阪急阪神不動産",
+    "area": "梅田",
+    "prefecture": "大阪府",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "other",
+      "community"
+    ],
+    "objectiveTags": [],
+    "objectiveTagsSource": "unknown",
+    "targetTags": [
+      "事業者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [],
+    "componentTagsSource": "unknown",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-05-28",
+    "endDate": "2025-05-28",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "57",
+    "visitorCount": "",
+    "otherPublicMetrics": "参加団体数: 35社",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "input",
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://dmo-umeda.jp/news/946/",
+    "sourceTitle": "2025年度DMO大阪梅田会員総会",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT109",
+    "interventionId": "INT109",
+    "name": "UMEDA INNOVATION WEEK",
+    "org": "DMO大阪梅田",
+    "company": "阪急阪神不動産",
+    "area": "梅田",
+    "prefecture": "大阪府",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "tourism",
+      "digital",
+      "event"
+    ],
+    "objectiveTags": [
+      "観光促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "事業者",
+      "観光客"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "デジタル"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-09-16",
+    "endDate": "2025-09-19",
+    "durationDays": "4",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "3493",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://dmo-umeda.jp/wp/wp-content/uploads/2025/11/report_umeda_innovation_week_jp.pdf",
+    "sourceTitle": "UMEDA INNOVATION WEEK",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT110",
+    "interventionId": "INT110",
+    "name": "地域再生甲子園2025",
+    "org": "DMO大阪梅田",
+    "company": "阪急阪神不動産",
+    "area": "梅田",
+    "prefecture": "大阪府",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "community",
+      "other"
+    ],
+    "objectiveTags": [
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民",
+      "事業者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "コミュニティ交流"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-09-05",
+    "endDate": "2025-09-07",
+    "durationDays": "3",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "350",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://dmo-umeda.jp/wp/wp-content/uploads/2025/11/report_regional_revitalization_koshien_2025_jp.pdf",
+    "sourceTitle": "地域再生甲子園2025",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT111",
+    "interventionId": "INT111",
+    "name": "第19回全国トイレ連絡会議大阪大会",
+    "org": "DMO大阪梅田",
+    "company": "阪急阪神不動産",
+    "area": "梅田",
+    "prefecture": "大阪府",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "tourism",
+      "other"
+    ],
+    "objectiveTags": [
+      "観光促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "事業者",
+      "観光客"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [],
+    "componentTagsSource": "unknown",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-03-19",
+    "endDate": "2026-03-20",
+    "durationDays": "2",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "187",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://dmo-umeda.jp/wp/wp-content/uploads/2026/04/report_national_toilet_liaison_conference_secretariat_jp.pdf",
+    "sourceTitle": "第19回全国トイレ連絡会議大阪大会",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT112",
+    "interventionId": "INT112",
+    "name": "JANOG57ミーティング",
+    "org": "DMO大阪梅田",
+    "company": "阪急阪神不動産",
+    "area": "梅田",
+    "prefecture": "大阪府",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "tourism",
+      "digital"
+    ],
+    "objectiveTags": [
+      "観光促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "事業者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "デジタル"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-02-11",
+    "endDate": "2026-02-13",
+    "durationDays": "3",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "登録者数（速報値）: 6000人超",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://dmo-umeda.jp/wp/wp-content/uploads/2026/04/report_japan_network_operators_group_jp.pdf",
+    "sourceTitle": "JANOG57ミーティング",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT113",
+    "interventionId": "INT113",
+    "name": "HACK OSAKA 2024",
+    "org": "DMO大阪梅田",
+    "company": "阪急阪神不動産",
+    "area": "梅田",
+    "prefecture": "大阪府",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "tourism",
+      "digital"
+    ],
+    "objectiveTags": [
+      "観光促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "事業者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "デジタル"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2024-11-26",
+    "endDate": "2024-11-26",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "1183",
+    "visitorCount": "",
+    "otherPublicMetrics": "参加者数（リアル）: 1024名 / 参加者数（オンライン）: 159名",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://dmo-umeda.jp/wp/wp-content/uploads/2025/11/report_hack_osaka2024_jp.pdf",
+    "sourceTitle": "HACK OSAKA 2024",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT114",
+    "interventionId": "INT114",
+    "name": "ISPIM Connects Osaka",
+    "org": "DMO大阪梅田",
+    "company": "阪急阪神不動産",
+    "area": "梅田",
+    "prefecture": "大阪府",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "tourism",
+      "other"
+    ],
+    "objectiveTags": [
+      "観光促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "事業者",
+      "観光客"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "デジタル"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2024-12-02",
+    "endDate": "2024-12-04",
+    "durationDays": "3",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "365",
+    "visitorCount": "",
+    "otherPublicMetrics": "海外参加者数: 171名 / 参加国数: 37か国",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://dmo-umeda.jp/wp/wp-content/uploads/2025/09/ISPIM_connects_osaka_jp.pdf",
+    "sourceTitle": "ISPIM Connects Osaka",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT115",
+    "interventionId": "INT115",
+    "name": "ウルトラヒーローズEXPO",
+    "org": "DMO大阪梅田",
+    "company": "阪急阪神不動産",
+    "area": "梅田",
+    "prefecture": "大阪府",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "event",
+      "culture_art"
+    ],
+    "objectiveTags": [
+      "文化芸術",
+      "来街促進"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "ファミリー",
+      "子ども",
+      "来街者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "子ども向け"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2024-08-13",
+    "endDate": "2024-08-25",
+    "durationDays": "13",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "12000",
+    "otherPublicMetrics": "",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://dmo-umeda.jp/wp/wp-content/uploads/2025/11/report_ultra_heroes_expo_jp.pdf",
+    "sourceTitle": "ウルトラヒーローズEXPO",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT116",
+    "interventionId": "INT116",
+    "name": "MUSIC LOVES ART 2024 -MICUSRAT-",
+    "org": "DMO大阪梅田",
+    "company": "阪急阪神不動産",
+    "area": "梅田",
+    "prefecture": "大阪府",
+    "fiscalYear": "2024年度",
+    "interventionType": [
+      "culture_art"
+    ],
+    "objectiveTags": [
+      "文化芸術"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "音楽",
+      "アート"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2024-08-12",
+    "endDate": "2024-08-25",
+    "durationDays": "14",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "https://dmo-umeda.jp/wp/wp-content/uploads/2025/11/report_music_loves_art2024_jp.pdf",
+    "sourceTitle": "MUSIC LOVES ART 2024 -MICUSRAT-",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT117",
+    "interventionId": "INT117",
+    "name": "名古屋駅地区綱引き大会2025",
+    "org": "名古屋駅地区街づくり協議会",
+    "company": "トヨタ不動産",
+    "area": "名駅",
+    "prefecture": "愛知県",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "event",
+      "community"
+    ],
+    "objectiveTags": [
+      "コミュニティ形成"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "事業者",
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "スポーツ",
+      "コミュニティ交流"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-10-02",
+    "endDate": "2025-11-13",
+    "durationDays": "",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "参加チーム数: 54チーム",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "http://www.nagoyaeki.org/activity/activity4105?mode=report",
+    "sourceTitle": "名古屋駅地区綱引き大会2025",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT118",
+    "interventionId": "INT118",
+    "name": "名古屋駅地区打ち水大作戦2025",
+    "org": "名古屋駅地区街づくり協議会",
+    "company": "トヨタ不動産",
+    "area": "名駅",
+    "prefecture": "愛知県",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "environment",
+      "community"
+    ],
+    "objectiveTags": [
+      "環境"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "緑化"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-08-05",
+    "endDate": "2025-08-05",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "実施会場数: 5会場 / 打ち水実施距離（計）: 331m",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "activity",
+      "outcome"
+    ],
+    "bestEvidenceGrade": "B",
+    "hasOutput": false,
+    "hasOutcome": true,
+    "hasBeforeAfter": true,
+    "sourceUrl": "http://www.nagoyaeki.org/activity_backnumber",
+    "sourceTitle": "名古屋駅地区打ち水大作戦2025",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT119",
+    "interventionId": "INT119",
+    "name": "メイエキイルミ2025",
+    "org": "名古屋駅地区街づくり協議会",
+    "company": "トヨタ不動産",
+    "area": "名駅",
+    "prefecture": "愛知県",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "culture_art"
+    ],
+    "objectiveTags": [
+      "文化芸術",
+      "ナイトタイム活性化"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "来街者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "ライトアップ"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-11-12",
+    "endDate": "2025-11-12",
+    "durationDays": "",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "http://www.nagoyaeki.org/activity_backnumber",
+    "sourceTitle": "メイエキイルミ2025",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT120",
+    "interventionId": "INT120",
+    "name": "第28期おもてなし花だん（花植え）",
+    "org": "名古屋駅地区街づくり協議会",
+    "company": "トヨタ不動産",
+    "area": "名駅",
+    "prefecture": "愛知県",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "environment",
+      "community"
+    ],
+    "objectiveTags": [
+      "環境"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民",
+      "事業者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "緑化"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-05-22",
+    "endDate": "2025-05-22",
+    "durationDays": "1",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "サポーター企業数: 23社",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "input"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "http://www.nagoyaeki.org/activity_backnumber",
+    "sourceTitle": "第28期おもてなし花だん（花植え）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT121",
+    "interventionId": "INT121",
+    "name": "第29期おもてなし花壇",
+    "org": "名古屋駅地区街づくり協議会",
+    "company": "トヨタ不動産",
+    "area": "名駅",
+    "prefecture": "愛知県",
+    "fiscalYear": "2025年度",
+    "interventionType": [
+      "environment",
+      "community"
+    ],
+    "objectiveTags": [
+      "環境"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民",
+      "事業者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "緑化"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2025-12-01",
+    "endDate": "",
+    "durationDays": "",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "http://www.nagoyaeki.org/activity_backnumber",
+    "sourceTitle": "第29期おもてなし花壇",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT122",
+    "interventionId": "INT122",
+    "name": "おもてなし花だん事業（通期実績）",
+    "org": "名古屋駅地区街づくり協議会",
+    "company": "トヨタ不動産",
+    "area": "名駅",
+    "prefecture": "愛知県",
+    "fiscalYear": "N/A",
+    "interventionType": [
+      "environment"
+    ],
+    "objectiveTags": [
+      "環境"
+    ],
+    "objectiveTagsSource": "derived",
+    "targetTags": [
+      "地域住民",
+      "事業者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [
+      "緑化"
+    ],
+    "componentTagsSource": "derived",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "",
+    "endDate": "",
+    "durationDays": "",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "花壇面積: 167.5㎡ / サポーター法人数: 25法人",
+    "hasMeasurement": true,
+    "measurementLevel": [
+      "input",
+      "output"
+    ],
+    "bestEvidenceGrade": "D",
+    "hasOutput": true,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "http://www.nagoyaeki.org/activity_about",
+    "sourceTitle": "おもてなし花だん事業（通期実績）",
+    "page": ""
+  },
+  {
+    "caseId": "WMB-INT123",
+    "interventionId": "INT123",
+    "name": "全国エリアマネジメントネットワーク第11期通常総会・シンポジウム2026（協力団体参画）",
+    "org": "名古屋駅地区街づくり協議会",
+    "company": "トヨタ不動産",
+    "area": "名駅",
+    "prefecture": "愛知県",
+    "fiscalYear": "N/A",
+    "interventionType": [
+      "other"
+    ],
+    "objectiveTags": [],
+    "objectiveTagsSource": "unknown",
+    "targetTags": [
+      "事業者"
+    ],
+    "targetTagsSource": "derived",
+    "componentTags": [],
+    "componentTagsSource": "unknown",
+    "tagEvidence": "施策名・活動種別（intervention_type）から分類。元資料に目的・対象の明記はない（derived）",
+    "startDate": "2026-07-30",
+    "endDate": "2026-08-01",
+    "durationDays": "3",
+    "frequency": "",
+    "partners": "",
+    "participantCount": "",
+    "visitorCount": "",
+    "otherPublicMetrics": "",
+    "hasMeasurement": false,
+    "measurementLevel": [],
+    "bestEvidenceGrade": "",
+    "hasOutput": false,
+    "hasOutcome": false,
+    "hasBeforeAfter": false,
+    "sourceUrl": "http://www.nagoyaeki.org/activity/activity4417?mode=report",
+    "sourceTitle": "全国エリアマネジメントネットワーク第11期通常総会・シンポジウム2026（協力団体参画）",
+    "page": ""
+  }
+]
